@@ -1,0 +1,60 @@
+:root {
+    --main-background: #f7f4ed;
+    --main-foreground: #263238;
+    --theme-background: #173f4f;
+    --theme-foreground: #ffffff;
+    --accent-background: #f2cc8f;
+}
+
+body {
+    background-color: var(--main-background);
+    color: var(--main-foreground);
+    font-family: "Lato", sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Merriweather", serif;
+}
+
+nav, footer {
+    background-color: var(--theme-background);
+    color: var(--theme-foreground);
+    padding: 1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-brand {
+    color: var(--theme-foreground);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-brand:hover {
+    color: var(--accent-background);
+}
+
+.navbar-dark .navbar-toggler {
+    background-color: var(--theme-background);
+    color: var(--theme-foreground);
+    border-color: var(--accent-background);
+}
+
+button:focus, a:focus {
+    outline: 3px solid var(--accent-background);
+    outline-offset: 3px;
+}
+
+header h1, main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+main section {
+    margin-bottom: 3rem;
+}
+
+footer p {
+    margin: 0;
+    text-align: center;
+}
