@@ -1,25 +1,7 @@
-## Working on a Group Project
+## Trying Day Trading
 
-### What did I do?
+About a year ago, I tried day trading. I liked how much I learned from actually trying it. The best part was making a little money at first because it felt like I was starting to get the hang of it.
 
-I worked with a group on a class project. We split up the work, shared ideas and checked in with each other so the final result made sense together. My part involved finishing my own work and helping put everything together.
+What I didn’t enjoy was losing money in the end. It was frustrating to go from being up for a bit to finishing with a loss.
 
-### When did I do it?
-
-I did this during October 2026.
-
-### What was good about it?
-
-It was good to hear ideas I would not have thought of on my own. Having other people to talk things through with also made it easier when I was unsure about something.
-
-### What was my favourite memory?
-
-My favourite memory was seeing all our separate parts come together. At the start it felt like everyone was working on different things, so it was satisfying when it finally felt like one project.
-
-### What didn't I enjoy?
-
-I didn't enjoy trying to find a time when everyone was available. Waiting for replies could also slow things down, especially when I needed an answer before finishing my part.
-
-### What grade would I give it?
-
-**B - for the most part enjoyable.** Scheduling was annoying sometimes, but I got better at explaining my ideas and working with other people. Those are skills I will need on a design team.
+**Grade C.** I learned a lot from it, but I didn’t like how it turned out.
